@@ -1,4 +1,5 @@
 Laborator nr 1 Testarea software
+--
 
 Am ales un site aleatoriu pentru a testa logarea : **good4read**
 
